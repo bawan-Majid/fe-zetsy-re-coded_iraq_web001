@@ -21,7 +21,9 @@ img{
    border: 60px solid  #000000; 
      border-radius: 20px;
 }
-
+.im:hover{
+  border-color: blue;
+}
 h2{
  
   color: #F3EBE9;
