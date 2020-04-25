@@ -12,9 +12,22 @@ body {
 
 .wrapper {
 	width: 960px;
-	margin: 0 auto;
+	margin: 300px;
 	background: #fff;
-	padding: 0 45px 20px;
-}
+padding: 40px;
 
+}
+img{
+   border: 1px solid  #F3EBE9; ;
+}
+h2{
+ 
+  color: #F3EBE9;
+}
+#hed
+{
+  text-decoration: none;
+  font-size: 96px;
+  color: #F3EBE9;
+}
 /* Write all remaining styles here */
